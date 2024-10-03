@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7263rk*8r1!yq0jy^!%jae+-^vm8&e6d1woc845w-0mo_mn5a9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','esty-wave.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1','earlham.vercel.app']
 
 
 # Application definition
